@@ -1,4 +1,4 @@
-*#BEMBA*
+*BEMBA*
 ----------
 
 > *Plantilla para python*
